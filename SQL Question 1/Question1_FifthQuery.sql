@@ -2,4 +2,4 @@
 
 
 
-SELECT DISTINCT Job_name FROM Employee Details;
+SELECT DISTINCT Job_name FROM EmployeeDetails;
