@@ -1,6 +1,6 @@
 -- Create a table named "Employee Details" with the followingcolumns: emp_id, emp_name, job_name, manager_id, hire_date, salary, dep_id
 
-CREATE TABLE Employee Details (
+CREATE TABLE EmployeeDetails (
     Emp_id INTEGER PRIMARY KEY,
     Emp_name VARCHAR(50) NOT NULL,
     Job_name VARCHAR(50) NOT NULL,
