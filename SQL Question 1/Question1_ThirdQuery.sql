@@ -1,6 +1,6 @@
 -- Insert 10 rows of data into the "Employee Details" table:
 
-INSERT INTO Employee Details (Emp_id, Emp_name, Job_name, Manager_id, Hire_date, Salary, Dep_id)
+INSERT INTO EmployeeDetails (Emp_id, Emp_name, Job_name, Manager_id, Hire_date, Salary, Dep_id)
 VALUES 
     (68319, 'Mr. Singh', 'PRESIDENT', 68319, '1991-11-18', 600000, 1001),
     (12451, 'Mr. Nikhil', 'CLERK', 62331, '2009-06-07', 80000, 1030),
