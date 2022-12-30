@@ -1,7 +1,7 @@
 -- Insert 10 details in the “Football Venue” table  - 
 
 
-INSERT INTO Football Venue (Venue_id, Venue_name, City_id, Capacity)
+INSERT INTO FootballVenue (Venue_id, Venue_name, City_id, Capacity)
 VALUES 
     (20010, 'France', 10001, 42115),
     (20020, 'Argentina', 10002,10000),
